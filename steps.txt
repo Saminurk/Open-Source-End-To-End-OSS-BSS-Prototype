@@ -1,0 +1,16 @@
+1. run venv by using cmd :
+
+2. run the docker
+
+3. run the below command to start the Service
+docker-compose build
+docker-compose up -d
+
+4. check containers if they are running
+docker ps
+
+5. open the below link 
+http://localhost:3000
+
+pass: admin
+user: admin
